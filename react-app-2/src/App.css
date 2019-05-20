@@ -1,0 +1,53 @@
+
+.App-header {
+  /* background-color: #282c34; */
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  color: white;
+}
+
+.App-link {
+  background-color: #2dabce;
+  margin: 0%;
+  padding: 20px 20px;
+}
+body{
+  background-color: #282c34
+}
+h2{
+  margin: 10px
+}
+h4{
+  margin: 10px
+}
+.idCard {
+  background-color: white;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px 20px 20px 20px;
+}
+#cardNum{
+  display:flex;
+  justify-content: flex-end;
+  margin: 0%;
+}
+#idName{
+  margin: 0%;
+  text-decoration-line: underline;
+  text-decoration-color: #2dabce; 
+}
+button{
+  background: transparent;
+  color:#fff;
+  border:none;
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 10px
+}
+button:hover{
+  background-color: #fff;
+  color: #282c34;
+  border-radius: 10px
+}
